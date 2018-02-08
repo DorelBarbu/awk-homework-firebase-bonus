@@ -1,0 +1,29 @@
+#logInMessage {
+    text-align: left;
+}
+
+#menu {
+    list-style-type: none;
+    padding: 0px;
+}
+
+#menu > li {
+    margin-top: 10 px;
+    margin-bottom: 10px;
+}
+
+.menuButton {
+    width: 100px;
+}
+
+#menuDiv {
+    text-align: right;
+}
+
+#appDiv {
+    text-align: left;
+}
+
+.componentTitle {
+    text-align: center;
+}
